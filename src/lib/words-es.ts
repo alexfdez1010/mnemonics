@@ -1,0 +1,16 @@
+export const WORDS_ES: string[] = [
+  "amor","tiempo","vida","mundo","día","noche","luz","sombra","agua","fuego","tierra","aire","cielo","mar","río","árbol","flor","hoja","fruta","pan",
+  "casa","puerta","ventana","techo","piso","pared","mesa","silla","cama","cocina","baño","calle","plaza","parque","escuela","trabajo","oficina","tienda","mercado","ciudad",
+  "pueblo","campo","montaña","valle","playa","isla","bosque","desierto","lluvia","viento","nieve","tormenta","sol","luna","estrella","nube","trueno","rayo","clima",
+  "familia","madre","padre","hijo","hija","hermano","hermana","abuelo","abuela","tío","tía","primo","prima","amigo","amiga","vecino","vecina","gente","persona","niño",
+  "niña","joven","adulto","anciano","hombre","mujer","bebé","maestro","alumno","doctor","paciente","cliente","jefe","compañero","equipo","grupo","pareja","artista","músico",
+  "actor","lectura","libro","cuaderno","pluma","lápiz","papel","tijeras","regla","computadora","teléfono","pantalla","teclado","ratón","cable","cargador","archivo","carpeta","correo",
+  "canción","melodía","ritmo","voz","silencio","ruido","color","rojo","azul","verde","amarillo","negro","blanco","gris","morado","naranja","rosa","marrón","dorado",
+  "feliz","triste","enojado","calma","miedo","sorpresa","confianza","vergüenza","orgullo","amoroso","amable","fuerte","débil","rápido","lento","alto","bajo","grande","pequeño",
+  "nuevo","viejo","frío","caliente","dulce","salado","ácido","amargo","suave","duro","limpio","sucio","seco","mojado","pesado","ligero","corto","largo","ancho","estrecho",
+  "abrir","cerrar","subir","bajar","ir","venir","entrar","salir","mirar","ver","oír","escuchar","hablar","decir","pensar","sentir","soñar","dormir","comer","beber",
+  "correr","caminar","saltar","nadar","volar","jugar","leer","escribir","pintar","cantar","bailar","cocinar","limpiar","aprender","enseñar","trabajar","descansar","viajar","conducir",
+  "crear","construir","romper","arreglar","buscar","encontrar","recordar","olvidar","empezar","terminar","ganar","perder","comprar","vender","pagar","cobrar","abrir","cerrar","llamar",
+  "pregunta","respuesta","idea","memoria","atención","concentración","práctica","reto","juego","lista","palabra","frase","texto","historia","imagen","número","tiempo","segundo",
+  "minuto","hora","ayer","hoy","mañana","siempre","nunca","a veces","temprano","tarde","pronto","lejos","cerca","arriba","abajo","dentro","fuera","antes","después","durante",
+];
