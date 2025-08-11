@@ -41,10 +41,9 @@ export function shuffle<T>(arr: T[]): T[] {
 }
 
 export function parseUserInputToWords(input: string): string[] {
-  // Split on commas, semicolons, newlines and multiple spaces
+  // Split on commas, semicolons, or ANY whitespace (including single spaces, tabs, newlines)
   const tokens = input
-    .replace(/[\r\t]/g, " ")
-    .split(/[\n,;]+|\s{2,}/g)
+    .split(/[\s,;]+/g)
     .map((t) => t.trim())
     .filter(Boolean);
   return tokens;
